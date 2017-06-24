@@ -22,7 +22,7 @@ GET /
 ----
 ## Example output:
 
-```json
+```js
 {
   ipaddress: "27.33.75.54",
   language: "en-US",
